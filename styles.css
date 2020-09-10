@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,700&display=swap');
+
+body {
+    background-color: #3a4965;
+}
+
+i {
+    color: #848484;
+    font-size: 24px;
+    padding-right: 12px;
+}
+
+table {
+    width: 1143px;
+    height: 680px;
+    text-align: center;
+    font-family:  'Arimo', sans-serif;
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #484848;
+    border-collapse: collapse;
+    margin-top: 24px;
+    margin-left: 22px;
+}
+
+.white {
+    background-color: #fafafa;
+    height: 86px;
+}
+
+.light_green {
+    background-color: #89c331;
+    height: 70px;
+}
+
+.red {
+    background-color: #f04a56;
+}
+
+.green {
+    background-color: #20807c;
+}
+
+.light_grey {
+    background-color: #f2f2f2;
+    height: 69px;
+}
+
+.dark_grey {
+    background-color: #e3e3e3;
+    height: 69px;
+}
+
+.dark_grey2 {
+    background-color: #dddddd;
+}
+
+.grey2 {
+    background-color: #eeeeee;
+}
+
+.grey3 {
+    background-color: #f4f4f4;
+}
+
+.font_18 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.font_30 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.white_24 {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.white_30 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.font_60 {
+    font-size: 60px;
+    font-weight: bold;
+    float: left;
+    margin-left: 35px;
+}
+
+.font_24 {
+    font-size: 24px;
+    font-weight: bold;
+    float: left;
+    margin-top: 10px;
+}
+
+.font_18_2 {
+    font-size: 18px;
+    float: left;
+    margin-top: 20px;
+    margin-left: -30px;
+}
+
+button {
+    width: 192px;
+    height: 42px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border-style: none;
+    padding-top: 7px;
+}
+
+.first_button {
+    background-color:  #484848;
+    box-shadow: 0 7px 0 0 #404040;
+}
+
+.second_button {
+    background-color: #89c331;
+    box-shadow: 0 7px 0 0 #79b027;
+}
+
+.third_button {
+    background-color: #f04a56;
+    box-shadow: 0 7px 0 0 #df3a46;
+}
+
+.forth_button {
+    background-color: #20807c;
+    box-shadow: 0 7px 0 0 #16736f;
+}
+
+td {
+    box-shadow: -3px 0 5px -5px;
+}
